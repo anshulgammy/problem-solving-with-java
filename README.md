@@ -17,20 +17,20 @@ Thanks! Let's Keep Learning!
 
 1. Write a Java program which will print Fibonacci series, e.g. 1 1 2 3 5 8 13... up to a given number.
 
-[Solution](link to my website post)
+[Solution to problem 1](link to my website post)
 
 2. Write a Java program to check if a given number is prime or not.
 
-[Solution](link to my website post)
+[Solution to problem 2](link to my website post)
 
 3. Write a Java program to check if a given String is palindrome or not.
 
-[Solution](link to my website post)
+[Solution to problem 3](link to my website post)
 
 4. Write a Java program to check if a given Integer is palindrome or not.
 
-[Solution](link to my website post)
+[Solution to problem 4](link to my website post)
 
 5. Write a Java program to check if a given Integer is Armstrong or not.
 
-[Solution](link to my website post)
+[Solution to problem 5](link to my website post)
