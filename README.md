@@ -29,11 +29,11 @@ Thanks! Let's Keep Learning!
 
 4. Write a Java program to check if a given Integer is palindrome or not.
 
-[Solution to problem 4](link to my website post)
+[Solution to problem 4](https://www.anshulgautam.in/blog/problem-solving-palindrome-integers/)
 
 5. Write a Java program to check if a given Integer is Armstrong number or not.
 
-[Solution to problem 5](link to my website post)
+[Solution to problem 5](https://www.anshulgautam.in/blog/problem-solving-armstrong-numbers/)
 
 6. Write a Java program to calculate factorial of a given number.
 
