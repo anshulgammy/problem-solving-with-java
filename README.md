@@ -17,15 +17,15 @@ Thanks! Let's Keep Learning!
 
 1. Write a Java program to print first ‘n’ Fibonacci Numbers.
 
-[Solution to problem 1](link to my website post)
+[Solution to problem 1](https://www.anshulgautam.in/blog/problem-solving-fibonacci-numbers/)
 
 2. Write a Java program to check if a given number is prime or not.
 
-[Solution to problem 2](link to my website post)
+[Solution to problem 2](https://www.anshulgautam.in/blog/problem-solving-prime-numbers/)
 
 3. Write a Java program to check if a given String is palindrome or not.
 
-[Solution to problem 3](link to my website post)
+[Solution to problem 3](https://www.anshulgautam.in/blog/problem-solving-palindrome-numbers/)
 
 4. Write a Java program to check if a given Integer is palindrome or not.
 
