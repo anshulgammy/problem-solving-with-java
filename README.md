@@ -15,7 +15,7 @@ Thanks! Let's Keep Learning!
 
 ## List of Questions:
 
-1. Write a Java program which will print Fibonacci series, e.g. 1 1 2 3 5 8 13... up to a given number.
+1. Write a Java program to print first ‘n’ Fibonacci Numbers.
 
 [Solution to problem 1](link to my website post)
 
@@ -31,6 +31,34 @@ Thanks! Let's Keep Learning!
 
 [Solution to problem 4](link to my website post)
 
-5. Write a Java program to check if a given Integer is Armstrong or not.
+5. Write a Java program to check if a given Integer is Armstrong number or not.
 
 [Solution to problem 5](link to my website post)
+
+6. Write a Java program to calculate factorial of a given number.
+
+[Solution to problem 6](link to my website post)
+
+7. Write a Java Program to Remove Duplicate Elements From the Array.
+
+[Solution to problem 7](link to my website post)
+
+8. Write a Java program to find repeated characters in a String. For example, if given input to your program is "Java", it should print all duplicates characters along with their count. eg: Java should output repeated character and its count a = 2.
+
+[Solution to problem 8](link to my website post)
+
+9. Write a Java program to find the Greatest Common Divisor(GCD) of two numbers.
+
+[Solution to problem 9](link to my website post)
+
+10. Write a Java program to find the Lowest Common Multiple(LCM) of two numbers.
+
+[Solution to problem 10](link to my website post)
+
+11. Write a Java program to list all the prime factors of a number.
+
+[Solution to problem 11](link to my website post)
+
+12. Write a Java program to calculate the square root of a number without using the Math.sqrt() function
+
+[Solution to problem 12](link to my website post)
