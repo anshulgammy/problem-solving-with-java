@@ -32,6 +32,4 @@ public class Problem_10 {
     }
     return calculateGCD(secondNumber % firstNumber, firstNumber);
   }
-
-
 }

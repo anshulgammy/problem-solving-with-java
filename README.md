@@ -37,28 +37,28 @@ Thanks! Let's Keep Learning!
 
 6. Write a Java program to calculate factorial of a given number.
 
-[Solution to problem 6](link to my website post)
+[Solution to problem 6](https://www.anshulgautam.in/blog/problem-solving-factorial-of-a-number/)
 
 7. Write a Java Program to Remove Duplicate Elements From the Array.
 
-[Solution to problem 7](link to my website post)
+[Solution to problem 7](https://www.anshulgautam.in/blog/problem-solving-remove-duplicate-elements-in-array/)
 
 8. Write a Java program to find repeated characters in a String. For example, if given input to your program is "Java", it should print all duplicates characters along with their count. eg: Java should output repeated character and its count a = 2.
 
-[Solution to problem 8](link to my website post)
+[Solution to problem 8](https://www.anshulgautam.in/blog/problem-solving-repeated-characters-in-a-string/)
 
 9. Write a Java program to find the Greatest Common Divisor(GCD) of two numbers.
 
-[Solution to problem 9](link to my website post)
+[Solution to problem 9](https://www.anshulgautam.in/blog/problem-solving-gcd-of-two-numbers/)
 
 10. Write a Java program to find the Lowest Common Multiple(LCM) of two numbers.
 
-[Solution to problem 10](link to my website post)
+[Solution to problem 10](https://www.anshulgautam.in/blog/problem-solving-lcm-of-two-numbers/)
 
 11. Write a Java program to list all the prime factors of a number.
 
-[Solution to problem 11](link to my website post)
+[Solution to problem 11](https://www.anshulgautam.in/blog/problem-solving-prime-factors/)
 
 12. Write a Java program to calculate the square root of a number without using the Math.sqrt() function
 
-[Solution to problem 12](link to my website post)
+[Solution to problem 12](https://www.anshulgautam.in/blog/)
