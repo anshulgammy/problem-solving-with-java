@@ -59,6 +59,6 @@ Thanks! Let's Keep Learning!
 
 [Solution to problem 11](https://www.anshulgautam.in/blog/problem-solving-prime-factors/)
 
-12. Write a Java program to calculate the square root of a number without using the Math.sqrt() function
+12. Write a Java program to calculate the square root of a number without using the Math.sqrt() function.
 
-[Solution to problem 12](https://www.anshulgautam.in/blog/)
+[Solution to problem 12](https://github.com/anshulgammy/problem-solving-with-java/blob/main/src/com/utopian/nerd/problem/solving/Problem_12.java)
