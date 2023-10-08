@@ -62,3 +62,19 @@ Thanks! Let's Keep Learning!
 12. Write a Java program to calculate the square root of a number without using the Math.sqrt() function.
 
 [Solution to problem 12](https://github.com/anshulgammy/problem-solving-with-java/blob/main/src/com/utopian/nerd/problem/solving/Problem_12.java)
+
+13. Write a Java program to reverse a string.
+
+[Solution to problem 13](https://github.com/anshulgammy/problem-solving-with-java/blob/main/src/com/utopian/nerd/problem/solving/Problem_13.java)
+
+14. Write a Java program to determine if the provided year is a leap year or not.
+
+[Solution to problem 14](https://github.com/anshulgammy/problem-solving-with-java/blob/main/src/com/utopian/nerd/problem/solving/Problem_14.java)
+
+15. Write a Java program to search for an element in a sorted array using binary search.
+
+[Solution to problem 15](https://github.com/anshulgammy/problem-solving-with-java/blob/main/src/com/utopian/nerd/problem/solving/Problem_15.java)
+
+16. Write a Java program to find out the first non repeated character in the given string.
+
+[Solution to problem 16](https://github.com/anshulgammy/problem-solving-with-java/blob/main/src/com/utopian/nerd/problem/solving/Problem_16.java)
